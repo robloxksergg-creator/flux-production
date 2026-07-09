@@ -371,7 +371,7 @@ const ru: Dict = {
   "contact.subtitle":
     "Партнёрства, пресса, найм или что-то ещё — напишите, и мы ответим в течение 48 часов.",
   "contact.email.title": "Написать на почту",
-  "contact.email.sub": "hello@fluxproduction.dev",
+  "contact.email.sub": "studiofluxproductions2@gmail.com",
   "contact.discord.title": "Чат в Discord",
   "contact.discord.sub": "Самый быстрый способ связаться",
   "contact.github.title": "Открыть issue",

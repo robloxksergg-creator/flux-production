@@ -96,7 +96,7 @@ export type TeamMember = {
   links: MemberLink[];
 };
 
-const DISCORD = "https://discord.gg/sTK4KPU249";
+const DISCORD = "https://discord.gg/sg64A74Ft3";
 
 export const team: TeamMember[] = [
   {
@@ -274,7 +274,7 @@ export const stats = [
 
 export const socials = {
   discord: DISCORD,
-  github: "https://github.com/fluxproduction",
-  twitter: "https://twitter.com/fluxproduction",
-  email: "mailto:hello@fluxproduction.dev",
+  github: "https://github.com/FluxProduction",
+  twitter: "https://x.com/FluxProduction_",
+  email: "studiofluxproductions2@gmail.com",
 };
